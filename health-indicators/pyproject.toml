@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "health-indicators"
+version = "0.1.0"
+description = "Unified library of Health indices indicators attempt to describe and monitor a 
+population's health status. eg BMI BAI "
+authors = ["babu muraya <babumuraya@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
