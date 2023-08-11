@@ -76,6 +76,7 @@ def bodymassindex(mass, height):
         print("Body Mass Index is => ", bmi_formula)
 
     print("Body Mass Index is => ", bmi_formula)
+    return bmi_formula
 
 
 # Body Adipose Index
